@@ -1,0 +1,124 @@
+<svg height="1934" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1934" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 10:57:49 +0000   150681 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 10:57:49 +0000     6555 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 10:57:49 +0000     2154 bytes  lib/bower-loader.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 10:57:49 +0000     1830 bytes  lib/bower-plugin-logger.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 10:57:49 +0000     3395 bytes  lib/bower-plugin-main-resolver.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 10:57:49 +0000     4989 bytes  lib/bower-plugin-manifest-resolver.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 10:57:49 +0000     2358 bytes  lib/bower-plugin-utils.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 10:57:49 +0000     5604 bytes  lib/bower-plugin.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 10:57:49 +0000     1076 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 10:57:49 +0000     2781 bytes  test/custom-file.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 10:57:49 +0000     4532 bytes  test/custom-module-directories.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 10:57:49 +0000     3703 bytes  test/exclusions.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 10:57:49 +0000    23320 bytes  test/fixtures/bower_components/fixture-fonts.wof\</tspan>
+<tspan x="10" y="234">f</tspan>
+<tspan x="10" y="250"> 13.  2017-04-21 10:57:49 +0000      121 bytes  test/fixtures/bower_components/module-custom-bow\</tspan>
+<tspan x="10" y="266">er-file/custom.json</tspan>
+<tspan x="10" y="282"> 14.  2017-04-21 10:57:49 +0000     1371 bytes  test/fixtures/bower_components/module-custom-bow\</tspan>
+<tspan x="10" y="298">er-file/module0.css</tspan>
+<tspan x="10" y="314"> 15.  2017-04-21 10:57:49 +0000     1276 bytes  test/fixtures/bower_components/module-custom-bow\</tspan>
+<tspan x="10" y="330">er-file/module0.js</tspan>
+<tspan x="10" y="346"> 16.  2017-04-21 10:57:49 +0000       88 bytes  test/fixtures/bower_components/module-custom-fil\</tspan>
+<tspan x="10" y="362">e-fallback/bower.json</tspan>
+<tspan x="10" y="378"> 17.  2017-04-21 10:57:49 +0000      124 bytes  test/fixtures/bower_components/module-custom-fil\</tspan>
+<tspan x="10" y="394">e-fallback/custom.json</tspan>
+<tspan x="10" y="410"> 18.  2017-04-21 10:57:49 +0000     1380 bytes  test/fixtures/bower_components/module-custom-fil\</tspan>
+<tspan x="10" y="426">e-fallback/module0.css</tspan>
+<tspan x="10" y="442"> 19.  2017-04-21 10:57:49 +0000     1279 bytes  test/fixtures/bower_components/module-custom-fil\</tspan>
+<tspan x="10" y="458">e-fallback/module0.js</tspan>
+<tspan x="10" y="474"> 20.  2017-04-21 10:57:49 +0000     1272 bytes  test/fixtures/bower_components/module-missing-bo\</tspan>
+<tspan x="10" y="490">wer/module0.js</tspan>
+<tspan x="10" y="506"> 21.  2017-04-21 10:57:49 +0000      126 bytes  test/fixtures/bower_components/module-missing-re\</tspan>
+<tspan x="10" y="522">ferenced-file/bower.json</tspan>
+<tspan x="10" y="538"> 22.  2017-04-21 10:57:49 +0000      114 bytes  test/fixtures/bower_components/module-multiple-j\</tspan>
+<tspan x="10" y="554">s/bower.json</tspan>
+<tspan x="10" y="570"> 23.  2017-04-21 10:57:49 +0000     1272 bytes  test/fixtures/bower_components/module-multiple-j\</tspan>
+<tspan x="10" y="586">s/module0.js</tspan>
+<tspan x="10" y="602"> 24.  2017-04-21 10:57:49 +0000     1272 bytes  test/fixtures/bower_components/module-multiple-j\</tspan>
+<tspan x="10" y="618">s/module1.js</tspan>
+<tspan x="10" y="634"> 25.  2017-04-21 10:57:49 +0000      127 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="650">ixed-with-subdirs/bower.json</tspan>
+<tspan x="10" y="666"> 26.  2017-04-21 10:57:49 +0000      235 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="682">ixed-with-subdirs/css/module0.css</tspan>
+<tspan x="10" y="698"> 27.  2017-04-21 10:57:49 +0000    23320 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="714">ixed-with-subdirs/fonts/fixture-fonts.woff</tspan>
+<tspan x="10" y="730"> 28.  2017-04-21 10:57:49 +0000      115 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="746">ixed-with-subdirs/js/module0.js</tspan>
+<tspan x="10" y="762"> 29.  2017-04-21 10:57:49 +0000      118 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="778">ixed/bower.json</tspan>
+<tspan x="10" y="794"> 30.  2017-04-21 10:57:49 +0000      191 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="810">ixed/module0.css</tspan>
+<tspan x="10" y="826"> 31.  2017-04-21 10:57:49 +0000      102 bytes  test/fixtures/bower_components/module-multiple-m\</tspan>
+<tspan x="10" y="842">ixed/module0.js</tspan>
+<tspan x="10" y="858"> 32.  2017-04-21 10:57:49 +0000       91 bytes  test/fixtures/bower_components/module-provided-a\</tspan>
+<tspan x="10" y="874">/bower.json</tspan>
+<tspan x="10" y="890"> 33.  2017-04-21 10:57:49 +0000     1210 bytes  test/fixtures/bower_components/module-provided-a\</tspan>
+<tspan x="10" y="906">/module0.js</tspan>
+<tspan x="10" y="922"> 34.  2017-04-21 10:57:49 +0000       91 bytes  test/fixtures/bower_components/module-provided-b\</tspan>
+<tspan x="10" y="938">/bower.json</tspan>
+<tspan x="10" y="954"> 35.  2017-04-21 10:57:49 +0000     1290 bytes  test/fixtures/bower_components/module-provided-b\</tspan>
+<tspan x="10" y="970">/module0.js</tspan>
+<tspan x="10" y="986"> 36.  2017-04-21 10:57:49 +0000       91 bytes  test/fixtures/bower_components/module-single-arr\</tspan>
+<tspan x="10" y="1002">ay/bower.json</tspan>
+<tspan x="10" y="1018"> 37.  2017-04-21 10:57:49 +0000      100 bytes  test/fixtures/bower_components/module-single-arr\</tspan>
+<tspan x="10" y="1034">ay/module0.js</tspan>
+<tspan x="10" y="1050"> 38.  2017-04-21 10:57:49 +0000       95 bytes  test/fixtures/bower_components/module-single-str\</tspan>
+<tspan x="10" y="1066">ing-css/bower.json</tspan>
+<tspan x="10" y="1082"> 39.  2017-04-21 10:57:49 +0000      200 bytes  test/fixtures/bower_components/module-single-str\</tspan>
+<tspan x="10" y="1098">ing-css/module0.css</tspan>
+<tspan x="10" y="1114"> 40.  2017-04-21 10:57:49 +0000       90 bytes  test/fixtures/bower_components/module-single-str\</tspan>
+<tspan x="10" y="1130">ing/bower.json</tspan>
+<tspan x="10" y="1146"> 41.  2017-04-21 10:57:49 +0000      101 bytes  test/fixtures/bower_components/module-single-str\</tspan>
+<tspan x="10" y="1162">ing/module0.js</tspan>
+<tspan x="10" y="1178"> 42.  2017-04-21 10:57:49 +0000      122 bytes  test/fixtures/bower_components/module-with-exclu\</tspan>
+<tspan x="10" y="1194">sions/bower.json</tspan>
+<tspan x="10" y="1210"> 43.  2017-04-21 10:57:49 +0000     1276 bytes  test/fixtures/bower_components/module-with-exclu\</tspan>
+<tspan x="10" y="1226">sions/module0.js</tspan>
+<tspan x="10" y="1242"> 44.  2017-04-21 10:57:49 +0000     1276 bytes  test/fixtures/bower_components/module-with-exclu\</tspan>
+<tspan x="10" y="1258">sions/module1.js</tspan>
+<tspan x="10" y="1274"> 45.  2017-04-21 10:57:49 +0000     1208 bytes  test/fixtures/custom-module-multiple-js.js</tspan>
+<tspan x="10" y="1290"> 46.  2017-04-21 10:57:49 +0000     1211 bytes  test/fixtures/custom-module-single-string.js</tspan>
+<tspan x="10" y="1306"> 47.  2017-04-21 10:57:49 +0000      115 bytes  test/fixtures/custom_components/custom-module-mu\</tspan>
+<tspan x="10" y="1322">ltiple-js/bower.json</tspan>
+<tspan x="10" y="1338"> 48.  2017-04-21 10:57:49 +0000     1279 bytes  test/fixtures/custom_components/custom-module-mu\</tspan>
+<tspan x="10" y="1354">ltiple-js/module0.js</tspan>
+<tspan x="10" y="1370"> 49.  2017-04-21 10:57:49 +0000     1279 bytes  test/fixtures/custom_components/custom-module-mu\</tspan>
+<tspan x="10" y="1386">ltiple-js/module1.js</tspan>
+<tspan x="10" y="1402"> 50.  2017-04-21 10:57:49 +0000      116 bytes  test/fixtures/custom_components/custom-module-si\</tspan>
+<tspan x="10" y="1418">ngle-string/bower.json</tspan>
+<tspan x="10" y="1434"> 51.  2017-04-21 10:57:49 +0000      115 bytes  test/fixtures/custom_components/custom-module-si\</tspan>
+<tspan x="10" y="1450">ngle-string/custom-module-single-string-bower.js</tspan>
+<tspan x="10" y="1466"> 52.  2017-04-21 10:57:49 +0000      114 bytes  test/fixtures/custom_components/custom-module-si\</tspan>
+<tspan x="10" y="1482">ngle-string/custom-module-single-string-node.js</tspan>
+<tspan x="10" y="1498"> 53.  2017-04-21 10:57:49 +0000      121 bytes  test/fixtures/custom_components/custom-module-si\</tspan>
+<tspan x="10" y="1514">ngle-string/package.json</tspan>
+<tspan x="10" y="1530"> 54.  2017-04-21 10:57:49 +0000     1231 bytes  test/fixtures/integration-with-provide.js</tspan>
+<tspan x="10" y="1546"> 55.  2017-04-21 10:57:49 +0000     1250 bytes  test/fixtures/module-alias.js</tspan>
+<tspan x="10" y="1562"> 56.  2017-04-21 10:57:49 +0000     1207 bytes  test/fixtures/module-custom-bower-file.js</tspan>
+<tspan x="10" y="1578"> 57.  2017-04-21 10:57:49 +0000     1210 bytes  test/fixtures/module-custom-file-fallback.js</tspan>
+<tspan x="10" y="1594"> 58.  2017-04-21 10:57:49 +0000     1203 bytes  test/fixtures/module-missing-bower.js</tspan>
+<tspan x="10" y="1610"> 59.  2017-04-21 10:57:49 +0000     1213 bytes  test/fixtures/module-missing-referenced-file.js</tspan>
+<tspan x="10" y="1626"> 60.  2017-04-21 10:57:49 +0000     1197 bytes  test/fixtures/module-missing.js</tspan>
+<tspan x="10" y="1642"> 61.  2017-04-21 10:57:49 +0000     1203 bytes  test/fixtures/module-multiple-js.js</tspan>
+<tspan x="10" y="1658"> 62.  2017-04-21 10:57:49 +0000     1217 bytes  test/fixtures/module-multiple-mixed-with-subdirs\</tspan>
+<tspan x="10" y="1674">.js</tspan>
+<tspan x="10" y="1690"> 63.  2017-04-21 10:57:49 +0000     1204 bytes  test/fixtures/module-multiple-mixed.js</tspan>
+<tspan x="10" y="1706"> 64.  2017-04-21 10:57:49 +0000     1202 bytes  test/fixtures/module-single-array.js</tspan>
+<tspan x="10" y="1722"> 65.  2017-04-21 10:57:49 +0000     1207 bytes  test/fixtures/module-single-string-css.js</tspan>
+<tspan x="10" y="1738"> 66.  2017-04-21 10:57:49 +0000     1203 bytes  test/fixtures/module-single-string.js</tspan>
+<tspan x="10" y="1754"> 67.  2017-04-21 10:57:49 +0000     1205 bytes  test/fixtures/module-with-exclusions.js</tspan>
+<tspan x="10" y="1770"> 68.  2017-04-21 10:57:49 +0000     1286 bytes  test/fixtures/require-multiple-modules.js</tspan>
+<tspan x="10" y="1786"> 69.  2017-04-21 10:57:49 +0000     3294 bytes  test/inclusions.js</tspan>
+<tspan x="10" y="1802"> 70.  2017-04-21 10:57:49 +0000     1962 bytes  test/missing.js</tspan>
+<tspan x="10" y="1818"> 71.  2017-04-21 10:57:49 +0000     2765 bytes  test/multi-module.js</tspan>
+<tspan x="10" y="1834"> 72.  2017-04-21 10:57:49 +0000     2855 bytes  test/search-resolve-modules-directories.js</tspan>
+<tspan x="10" y="1850"> 73.  2017-04-21 10:57:49 +0000     2221 bytes  test/single-module.js</tspan>
+<tspan x="10" y="1866"> 74.  2017-04-21 10:57:49 +0000     4575 bytes  test/test-utils.js</tspan>
+<tspan x="10" y="1882"> 75.  2017-04-21 10:57:49 +0000     3390 bytes  test/utils.js</tspan>
+<tspan x="10" y="1898"> 76.  2017-04-21 10:57:49 +0000     1747 bytes  test/with-module-alias.js</tspan>
+<tspan x="10" y="1914"> 77.  2017-04-21 10:57:49 +0000     1843 bytes  test/with-provide-plugin.js</tspan>
+</text>
+</svg>
